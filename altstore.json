@@ -1,8 +1,8 @@
 {
-    "name": "My Example Source",
-    "subtitle": "All my apps in one place.",
+    "name": "Fireball",
+    "subtitle": "All of fireballs in uno place",
     "description": "Welcome to my source! Here you'll find all of my apps.",
-    "iconURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/OctoSource.png",
+    "iconURL": "https://marinetboy.github.io/altstore/logo.png",
     "headerURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/OceanHeader.png",
     "website": "https://example.com",
     "tintColor": "#4185A9",
